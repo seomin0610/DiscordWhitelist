@@ -1,0 +1,5 @@
+name: DiscordWhitelist
+main: com.example.discordwhitelist.DiscordWhitelistPlugin
+version: 1.0
+api-version: '1.21'
+description: 디스코드와 연동되는 화이트리스트 플러그인 
